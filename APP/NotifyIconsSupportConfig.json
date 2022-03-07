@@ -1543,5 +1543,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
-  }
+  },
+  {
+    "appName": "我的世界网易版",
+    "packageName": "com.netease.x19",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAXBJREFUaEPtmt1RwzAQhHcLoZaQAnikgWQGyiApA2ZIA3lMAYRaKOQYzSQziiz77EghZ3F6lWzfdyut/kw0UtgIBxzEmpK9iojIM4AnAA9Ggv4BcCC5z8WTBRGRDYA3IwBpGFuSIb6L0gERkRWAT6MQ57DWJHdxjDmQdwAvxkE+SL5qIF8AHo2DHEkuHcSQSq5ILMZ2hDKadZe+o4oiWR8/w4lIMIpgGENlSfLY12DEPFYFZEOyN6NzAmlGEQeJxoSJMeKKmFMEQGqdklhpZ5mt1KeL12DhQ3NRFfvV5sPOR9IHRKR0YeogmgpxvSsyIVs36VqqAlqAV4wZBxlKqisSLf2n2rF3Le9ammOFenetKEu5k8aigXfa6qqHD/Ge3aQi1+zZHeQPutak4yAzigD4TtxJHSNJ+8XEg/ObTIhjHLZ2GwepndHS9/0vRZq5emvjMvS0iJv/9XS02Zn/DwOllnKP5/2nmntkfeibzSjyC0eDh0LLVQtMAAAAAElFTkSuQmCC",
+    "iconColor": "#ff238e23",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
+  } 
 ]
