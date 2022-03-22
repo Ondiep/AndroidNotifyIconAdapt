@@ -1840,5 +1840,22 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "邮储银行",
+    "packageName": "com.yitong.mbank.psbc",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAABcVBMVEUAAABaWlppaWl4eHiIiIiKioqLi4uLi4uHh4eCgoKCgoJ9fX2AgICGhoaKioqHh4eBgYGBgYGBgYGCgoKAgICEhIR/f39/f396enp2dnZ0dHRycnJ4eHh8fHx7e3t5eXl2dnZzc3NycnJ1dXVwcHBxcXFubm5xcXFycnJwcHBwcHBxcXFycnJvb29ubm5ubm5ra2tsbGxqampra2tsbGxubm50dHR5eXl7e3t4eHh7e3t+fn6AgICBgYF+fn6EhISGhoaGhoZ4eHh3d3d6enp8fHx5eXl3d3dpaWlmZmZubm5/f3+KioqPj4+YmJidnZ2fn5+qqqqsrKyvr6+oqKidnZ2Xl5eWlpaWlpaVlZWenp6kpKS5ubm7u7uLi4tsbGxpaWlnZ2dpaWlqamppaWlpaWlqampra2tra2tsbGxtbW1qamppaWlpaWlqamppaWloaGhnZ2dnZ2dnZ2doaGhpaWlsbGxnZ2dmZmZoaGhpaWkoVAfqAAAAd3RSTlMACRALExofKi0wNTZFQEdQWWFpb3R5gIaJjoqTlZyjp6Sfq66xu8HFys/T09ba3+Pe3NrU1MjCwby6samkpJSTj4d+b29pX1JKSzwmBAIWEAcJDQsZJjI7Qk43QysPaHR8arfl6ezs7e/w8vL09/f7+/r8/v796n2Oeh8AAAK7SURBVHja5dVT2+QwGAbgz7Zt27Ztm6MUmclbpL9+UEy67eZ8r72PqqeRMv4Xp9lZHif8SE7z158a8/iFFExSw4VKbTf8SEXAcKPBmgtu5GRHMNxgtOyU35QOGU3OzEynzXQd+1bnypbfh3sf7p5Yt771yl+atwyEhIbcunnG4p5f5KICaTb6s3/Tq2sO/WfPb1jO67DTszBzVzgKTOuHijN85LbHqI303ZSoNI30+g5k4SwOTExaGs8rJfw94Wi69uuv8jG0/my7y28ho48vjhvf4dsOiQPtjqVRMCvDcdWJAWIOALH5IoMvt58aLAjuZPCdFo5plAVTJRl8J+WSPDo8ZBkeHhruyP/Lzy8uTee1+vjbg+3+/uHh7vzSdnHKrqX1ldWU5REtvLRi2TzLN59bNm+Z6lR+YwtQwJZox/keimJHtJeJZDcJ1GZQm7x1vaazPdH5yq4lzAYswmOixxlizQk7rxQhmBTCIIbMKxnG88q+QQw6Jsoy0koncXt1VUI9IgO1VUl1Y/pCzrYg9+1W2SrPmA6rDOOF9Y2EZRlGEhcJKypZO2vBqO7sbcPyxtTrqgmopidpRuLCRKXqvF7yXVE0q5uiLUwkrxsML7W8cAQGS/fHzJeAdk/T9Sodot4EHS0qR7jruCZEzcgYM9kuqlTzKQUFwIkM3NYSqTGvUwagycgAO/ZHn5YWJPZ82vbPe8jv3m0/mX0379lFnGnJfkNi1862ZWd7ik6WFo/pDbnm6wwf1y0YhLADYTJ7u4+kXc6yPFsE6oK7brbwOG+NHY9Td6cJdWet+mA+J1IuAVA2EqrIn8PdZ5xIPRG7PljveWVTQhPndLxY0oW1PZfdNqRWcQ6hvBGNoIgLEmGqlFOv+x/qRfoLOFvYrmB4xTpy/x65bvr59frZOue0vvDg0Ovg+DTjXxEHt4eroH30UtIAAAAASUVORK5CYII=",
+    "iconColor": "#ff42734b",
+    "contributorName": "dreamy",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "顺丰快递",
+    "packageName": "com.sf.activity",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAABcVBMVEUAAAC4uLi/v7/IyMjJycnPz8/U1NTc3Nzi4uLf39/Z2dnZ2dnY2Njx8fHw8PDw8PDx8fHy8vLz8/P09PT29vb19fX4+Pj6+vr6+vr6+vr+/v75+fn4+Pju7u7r6+vz8/P39/f39/f7+/v6+vr6+vr4+Pj7+/v7+/v+/v7+/v7+/v7+/v7+/v7+/v7+/v78/Pz8/Pz+/v7+/v75+fn4+Pj4+Pj8/Pz9/f3+/v78/Pz8/Pz7+/v6+vr5+fn6+vr5+fn7+/v9/f39/f3+/v7+/v77+/v+/v7+/v79/f39/f3+/v7+/v79/f3+/v7+/v7+/v79/f3+/v7+/v7+/v7////+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v7+/v78/Pz8/Pz29vb19fX+/v7+/v7+/v7////////////////////+/v739/f19fX///934t80AAAAenRSTlMAAQQOGBAGAgkYGyIUGyIkJikqLzA2ODg2MzIsKi41QUJFQj49PElPT1dbXmJjZGhtb3JxdHd9g4WHioqHj5KVmZ2UjaaprK6xs7O1uru9v8DCxcfNz9DZ3N7g4eLl5ufp7O3v8/b3+Pz9/rxZWFQaEgsKCAYFBAkPFAme9PMAAAKASURBVHja7diDk+RAHMXxd7ZWOGFtWzhpbds4L99ff9WdrknS053pLIr7KYXfMX7BlXO7ltXUMzg61F35Amf2d5q6L0eIq5UWqxlw95aR5q/DST9Tu4WU5ujmFyKt0dkmojBsNB8JaXsMO0WUFf8Wj5Hk3yYTkEIHpQJYlFBahl0vIdwldxHlzi7ZAYEfYEKOQHqEFHJPISyQMPhKMg8xFJPsQjIKsHE/oYUxS5RqLdtZD0eN9EBzyrPdI56YN9+HsweUdswhKOWUZp4ioWyWnoUy0ynKfugZ+kHfNoRRht0G0EApE0Gbwfosg54DKKXOv0sb1kc2yVghIuA2pacQ6Bp6TekOfH2B9jiFFkhZwVANPGnrJARKzZZHRmEAUIb8EBLuBENMCs1YP0IqpFuyhCr85RqnUJ0lFPyydQpd10NPghvuUhp1CIHSDUCpDJWpzJhCzWSxHvI3dKuQQip9SaF1knyvhdoMbyOtxGtayHhgJ6CMafvRQyqvQqFHxlAXoAxTQsAUlZtx7pG6A+Z/E6HQBElWW5+jdi2kUNoJhvCMPNCPKAOUPHMI0xRSvo/u6RseQpcilGb5iPRCSHcP9VlChMDHziFGh/jp7KFxSkdqL7MhbUWHDih9h++Y0rgKCVMfVyktWkMblA4td5Ka69YQPaZtj5JDLbCFMkyhqsDGlwzIhjVET1HU3fy8S2HnJxAZsm/dhrNtc+g3PX/g6ISeY2joyYWjQnqg26fwDc76KWQhifo/744Ckr0hGe8PO8kcGDDuCHGNhMndwrhDzTu3MevuecYsho0WxB/84o+ilz4cxx/XL/8Cgvsljcu/yGJ3J7+pZ3BMXfa5cj7/AcfWB2DhD9acAAAAAElFTkSuQmCC",
+    "contributorName": "PedroZ",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
