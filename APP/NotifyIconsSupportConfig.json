@@ -2663,7 +2663,7 @@
     "appName": "快看漫画", 
     "packageName": "com.kuaikan.comic", 
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAsZJREFUaEPtmT+MDVEUxr+voBCiICERUegQItEo/NlEROVfotCSiMgW4k9DgYKKiEIhK9GKIFEqxEYEBY3YRjQSIQpEoVDIJ4fZzcy8e+6d8WZn1+zc5DXv3Ln3/M53zz3nvSE6MtgRDvQgs03JuaOIpO2x6JMcr6pOk2uV90wqkm3+2HF2nORIDRBbxwvMSJ2gdBdE0uZQREk+t+//G0Uk/QQwvwTzkOSuOQ2SULBqOlWZV8gpNq1ID1JFg+KcXpFQzKwYXpg0WB3IjpZXK7ZF6sjUOqWNBOB8YPNGFcmvnyyOkmoXREkGca4LIAbRCUU6A9IfLcuryi1KPglTnfA/JnsrRyt5U+VBe5AWbq1uKpIdnVTX5FX92E/m0DOF+Y12v4kcSAEOZe9BsvAVcqRXZKhD9ffhpo9WqEvNuxlq/lIYofbeWvvCaBQk5pGkfQDup7wO2F+T3JB6rk2Q4wCuOg7dBbAHwDzHfpDk7RhMmyA3ARx2nNkJYDeAUcf+heTS2QLyBsDagDM/SC6UtB7AUwCLHIdPk7zswbSiiKQDAO44TtwiechskszRk66zpPtfdVsgzwAE/5oFsIPkowxkFYCXALxjdI2k5drAmHYQSaaEKRIaV0ieyhskXQRwJpIPy0l+bu36lWQJfBbAVsepCZLryjZJCwC8BbDCu+FIDgSmcUUkmQMnsk/sollC8mtogiRTxJTxxiaSr/LGRkEkXQJwDMDiiBPfAGwk+T5GKekdgNXOnBckCzlnIMuCyZOdwzrvRyQNtA6lta2WHCX5KwaRJf4RADci8/aSfDBpb/TVWwTkI4AxkrV6LUkTANY4MB9IrmwL5A+ARZbkp5QKgcTfD+Be5LlRktfNPh2KWHWe+pD8XhegdB0/AbDFW4NZkawK4voyzJvYYQAH6kiTi83kWklFZtK5Onv3IHWi1cbczijyG1bbl3m1lQpvAAAAAElFTkSuQmCC",
-    "iconColor": "#ffffff00",
+    "iconColor": "##ffcfb53b",
     "contributorName": "Ondiep", 
     "isEnabled": true, 
     "isEnabledAll": false 
