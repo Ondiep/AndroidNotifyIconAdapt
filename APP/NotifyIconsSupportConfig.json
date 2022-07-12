@@ -2949,5 +2949,14 @@
     "contributorName": "leoli",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "美丽修行",
+    "packageName": "cn.bevol.p",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAuBJREFUaEPtWO1x1DAQfa8CoAKgAqACjgqACiAVABUAFXCpgFABpAKSCiAVQAeQCpZ5RrqR5ZWtXE7McdHO3I/E1up9rGStiAMJHggPdCL75mR3pDvSSIFeWo2E3Tptd2Rr6RoNvDmOmNljAPcAnJL8nQpqZvr/UwDPMqF/AjjzxniGmJlyrAA8zJ5/CTmUbzZGjpiZEt0NCZVYvxifSL7UH2Z2G8BHh0A+mYi/I3lcIPBCz4NQc0DXAN7nQqYDBiJmJoACNhfnJFeB7FcAIlMbJySP4stBiM+ZUEu5vgN4UiITiQjU68SJW07W8/BOSuISgOyP1qvUVGbe+Dck1wUhlFulqBAWCevlkCtycBKTxR7UErA8kRQRUE0kAioZWT6KMF6gHmSPVGaPAEgI5VFcCDRJ5d7ETA69c5/kZM24u5aZnQBQ/XohEqt88gyIgP5wBgtAJLFZc94kYSPxchyRFL5RlIjIvrcFIkV7MzJzYlyQzHeoyXRmJqdyZ10BrkrkkmTVIjczrRUtaC/c8nDK1BN02HRqHdGLquU8jklqU1iMmdKYLanMVQ/HToho+4u7Sw0Zc156TlI73WKYmSsoyUkllUqrOsEcGjPziFSLEbbqb5My+t+IiIAnxnUdqdppshq/liOtiLiLrGVpdSJR3cJu0R3Jyq961+ql1UursHXt4IOoc92vXX8Q//li38URpfrU2fI7UiIC4E7e8l61sZokKBEpnZMADC3v4onx7/FEJ+0PNQdPr9V9BaA0kU6+AjJqTfOJgpIC4DVPannV3p4uuKkOVTi8/kfzC8fmJB4vH9QEiYAmrmmcBEa9yegiwMziFVFNDvEYdZuhh0l7+hrjBofT66DhzgqAQJYUF8Co8plDRMRi96Ycowu9BFUUbJQjXDqoRdY86u/jJUPElAqt3l+/tfqbm3NlWuPtPrzTHdkHF1IM3ZHuSCMFemk1EnbrtN2RraVrNPBgHPkDSPiTQrXWajoAAAAASUVORK5CYII=",
+    "iconColor": "#ffdb70db",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
