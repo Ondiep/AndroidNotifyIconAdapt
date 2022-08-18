@@ -3261,7 +3261,7 @@
     "contributorName": "Ondiep", 
     "isEnabled": true,
     "isEnabledAll": false
-  }，
+  },
   {
     "appName": "Quick", 
     "packageName": "indi.quick.proxy", 
@@ -3269,5 +3269,5 @@
     "contributorName": "Ondiep", 
     "isEnabled": true,
     "isEnabledAll": false
-  }，
+  }
 ]
