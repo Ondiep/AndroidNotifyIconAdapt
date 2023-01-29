@@ -95,7 +95,7 @@
     "iconColor": "#ffe89b26",
     "contributorName": "fankes",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   },
   {
     "appName": "抖音",
@@ -4238,5 +4238,13 @@
       "contributorName": "Ondiep",
       "isEnabled": true,
       "isEnabledAll": false
-      }
+    },
+    {
+      "appName": "CC加速器",
+      "packageName": "cn.ccspeed",
+      "iconBitmap": "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",
+      "contributorName": "Ondiep",
+      "isEnabled": true,
+      "isEnabledAll": false
+    }
 ]
