@@ -4611,5 +4611,13 @@
     "contributorName": "naicfeng",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Meitu Wink",
+    "packageName": "com.meitu.wink",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAwRJREFUaEPdWu1x2zAMJTZpJkkzSZpJ0kxSZ5IkkzSboPd0BI+kSBGAqFq2/sQXSxQeHj4eQVO4k4uOwMHMP+K6+Cufv+P/volIPk97/RQg0fBfIYTHEMJPhXUA8hlC+AohABg+77p2AWFmGP0n87rXGAB7J6Lf3gVcQCYCqO0GoDciulgBmYDEEAIDmvCx2pLfD0BPllxSA4ksfOyxzvisiR0VEGZG7L4aDZlxuzp3hkCYGaGEinTNC3mzWQg2gVyRiZbTNsF0gVwhJ0aMI8xeej2nCSRWp7+jla/wfbea9YCgOh1dYr1+gBJ4qB9eAWFmJDYS/MwXekwha1pAzsyGOHfFSgHkRtgQMEj8JGVqIEhwkd1nDi3YVrBSA2Gj9W9RjuMxFIf/3f1TriQgjrBaJVws28ixEasoo1ubK23FTE0yB2KRIhciemmxp3DIw0jVGhTFJxE9wY4ciCWsikTLAQ2aafe52inMrKmeKU8WII5OvgqrCkzPKUPxJ+sws7bwLAwLEMSkZa/hDa1mV26wYbFncaoAsXbzroBThIQMHrYKpGXbsAvIUscxMAghSFNCpZoxiDB2gEURX7yMWF925P0FEEtMHmmUZ+27AVJULcT3GTdSGobuAwgRLXmed3ZNJ9V4yHMPKuBIn7XWTf1sj2jEwksNj/oKytdqTBrCOdQF3p8kTw7EmidFl84m8s8KQM3Bm0GWCDtJgNb7EWt49aS8nIvgmEFYwhECLijW1TGCQjXXoZWUb5EjUTyapUprouFJEgcbhRNnDB/UirYH0LD/kCUKNlaMRFY8Xd4NxgEiFZncMTMHdGYwzgH5io0mI5EVawUT56jONCILmurWisbmpu6oIXZx2BklP0IWDvICaIaUIL3/YwVB6kxGTwXeeqa7tVYxchIwqiIyPHrLwHgLgJedzYOdelE1kKya3fbxdO6BqItQfbSjTS0rqvLdWszESL3AREBuAKZkH7kzSniwA7WrmUnJEPtrdOw8evdUIFXY5T9xwle38zMnrdeOvO8fF/d+QqsRitkAAAAASUVORK5CYII=",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
