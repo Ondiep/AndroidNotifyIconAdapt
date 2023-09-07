@@ -5085,5 +5085,13 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "网易云游戏",
+    "packageName": "com.netease.android.cloudgame",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAx5JREFUaEPtmVuoDWEYhp83RGnHhbOklH2hdpQkOV3IIVJyQSIXinInudikHCIhcaW4cbFTSCkRW5FTkRTJhUJOyemColB49dfaWvaemTVjzay19rbncvrm/d7n/2f+/5vvFz3kUg/hoBek0Way4ozYHgOMBfrWyfwP4IWkV0n5Y0FsjwbOAxPrBNA57T1gkaQ3UX4iQWyPAO4DwxsEosPGW2CSpHedfcWBnAUWNxhEh50zkpZWBLE9APjaoBDB1i9goKRv5R67zIjtqcDtBgYJ1qZIulsJZAZwIyeQl8CzklYzMDIn3ZmSbtYC5AmwWdLp8mS21wPbgWFVAtUE5BYwX9LnKLO2BwFhMZlVBUzhIGGRGC/pdZJJ20OBp0DTP8IUDrJN0s405mzvBzaliY2IKRykWdLjNOaqXB0LB2mS9CUNSEeM7VACTS5twEtSPlsIyFHgFPBT0tWURiLDbC8DTqbQyBXkGrA8qu5JYSQ2xPYG4GAFjdxA2iUtqMZwhVUtzOzshJhUIDOB6wkiBsZJel4gSChYw14Td6UCqVSiXJE0pyiIoGt7IJC0aOQCsldSa5EgJZiPwOCYPLmA7Ja0tQYg4RUu9NVqk7S6SBDbc4FLRYN8kFRt9Zo4DrYvhsKzaJCg3yppbxGzYnsdcKRW+0jIs0bSsTxhbG8EDqTQzOVjL8+zLySW9D5F8tgQ29OBHUDaZT13kA5z5b+0WZhCz2ACMCTLQ0AqkEo7e8achYT/XyAtwINCxjE/0RZJD8vlovpa4d53oF9+eXNVCn2B0KD7a+ePa5lW8z+dq+sIsT2StnS+n9SNbwfmFe0qo/4FSQujnkk8H7EdaqqVpR5U6AnX4wqvUvg/Oi6pLc5AxYOeLM5trwLKk02VdCdoRHRNVkk6nkU/KbYXJGp0evKM/CksSw3sw2UD0K1erRdAKCz7hO58p2OFFZJOdJdvJMln7WbE9jSgf4ZRC7+oXTarmOd3AZczaL+V9Cjz8mt7EXAuQ6JahI7KdDxdWvfDOfvaWrhLmeOTpEOZZySleMOE5boh1pOqF6Seox+V+zdkzVdCor8CgwAAAABJRU5ErkJggg==",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
