@@ -5234,5 +5234,13 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "GamesToday",
+    "packageName": "com.hotplaygames.gt",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAD8AAAAyCAYAAADrwQMBAAAAAXNSR0IArs4c6QAABJxJREFUaEPtmlmIXEUUhv//MbglLriBGqPEaBQ1LkkEgwui4gbiQzSKGEQ0kJiA25OgD4JoookbISBKEqKIDxFRcSGouESNARVD1KjghuKOy5O/929uN3du9+2uqjvp6emZA81AzzmnznerbtU5p5qYwMIJzI5J+Ik6+5MzPznzkU9A0mEATgFwZP6ZDmBKpJtYdQH4AcCu/LOT5BuxTpr6Ucte0pkALgNwHoDjUgcdZbu/ALwM4EUAT5H8LdR/ELyk2QAeArAg1PEY6f0C4G6SD4SM3xVe0h4AHgVwdYizAdL5GsBikq92i6kSXtIMAM8DmDlAULGhLO+2CjrCSzoXwDMA9okdbQD1nyB5bae42uAlnQDgnT7s3P18TutIXl8ecAS8pIMAfAjAf4dNlpB8pAhVht+aveenDht1gWcuyXfbznlJVwFYP8TgRttK8vRO8F8COGIcwfs4c3b3bR732QAOCIj/EpLPWa+x7CXdlBk+HGBYpeIMay2AYwDcCmCvGr5CTNeSvKGoKGkqgI0ALujh4COS3tRb8O/leXrIwGWdLSTPan4p6XwAL6Q4CrT5DsAMkv+W9fMN+/sAP3NIbqOkQwF8E2BQpbKM5OrSLPwJYM8aPruZbiC5qEpB0ttZnj+3x9h3kbzT8EvyvD011htJPlaCd+V1YKrDHnZrSC7tAu/3+aIePraTPMnwTwO4okag/YbfTPLSLvCfADg2gGeK4d/MSsIzApSbKi4htwH4L/9iJcnNpZl/FsC++Xf7Zamyq8LRkr/zd96ra4RImpPN+vuBAx1i+M/tLNDA+f41JP8J1G+oSToHwCsxNj10nX4vIvlFU0/S/Kyp8mQEyyzDx2xOU0n+ngIhyf0A7y+jKd6o/XEXKXaPmWf4P0LPZZJBzY9OdJLuAXB7IvlnANyh8bvsHsNoyHzD74io2W8jeW/syJI8K9sTCiYv45tJ/lpY3m6suMFS9yHMNvxrAFpJSgCYC4NigtFrw7PL4wsbYMAQDZUPSLpB2iaSlgNYGeqoQu9ww7uYcVGTKrvrqFtBclUF/P7Z/vFTasC53TTDLwawroaj3QV/eZaD+8jsKJEbddnHVySnG96V0I814JeSXFO0l+Qu6rQaPm16HcnHu8C7h58qq0iuaFZ1bwGYl+hpfXbetrq7klzZfZroq2i2OtvollUsezdc3HhJlQUkX2/CuzwckZ9Her2j0Pe7P7s8mBVpX6U+k+TO8j8lbalxh7CLZCOpa53bknwF5GRh0MSbnnORpniV+YosVRaS3FSGvxLAhlSP48TuY5I+dhtSbmD6DD9tnICkhNl416vgD3ZyAcB/h03a8oZOlxYn5r37YYLfSLItkau6rvIVtBOMuvnzIDzAEUdxMaBuF5U+r90SOmoQCBJjuIXkfVW2va6o987P/4WJg4+VWb0r6mLUklxduRnRuu0YK6oe4/6c/zjhwZD4opoTeTvq4iy1vDDLCY4OGaAPOu5EuUX2UnZpsimm0xQFX1oNzrJOLvwYyVdd/fxBkvt3O0i6LkmSZPik0QbMaBJ+wCakb+FMznzfHvWADTShZ/5/y81rPTYBOFoAAAAASUVORK5CYII=",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
