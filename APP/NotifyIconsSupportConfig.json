@@ -5252,4 +5252,12 @@
     "isEnabled": true,
     "isEnabledAll": false
   },
+  {
+    "appName": "小米云备份",
+    "packageName": "com.miui.cloudbackup",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAttJREFUaEPtmVuITWEUx39/8uQy5VIu8cCjkqLcUjSNQpIUUZKmKA/Mk8aMRzXJgxJKpnjxQBIantRIRpGUUjyYYjBCbiGltJw1zZnmcuacvc/e355zprOeTp29/v/122uf8+1vfWKchMYJBzWQSutkrSO1jgS6A0EeLTOrA+YCs4AJwDdJzwIx9MmmAmJm04B9QAOwAphZoOhPQAdwS9LNtKESgZjZZKAVOAT456jxGjgm6XLUhFLXlQ1iZuuBS8CCUiZFvr8ONEr6nkCj/EfLzDYCd5Ka9+e/BTZIeplEL3ZHzGwtcD+JaYHcD8BKST3l6sYCMbM5wHNgermGRfJe+B+FpJ/laMcF8U54R0LFPUn+24sdkUHMbBNwO7ZD/IRe4CLwGHgq6V0UiTggncC6KKIpX+NPwRFJj4rpRgLpX/B+pFxgXLkbQJOkN4USo4JsB67FdQ50fbOkE8O1o4I8ANYEKqwc2dOSDg9OLApiZr5qHwf2lOMWOKdNUkveoyCImc0HvH27AheTVH6zpL43jBEgZrYbOA9MSeqSQf5nYKGkX0NAzKwJOJVBAWlatEhqGwAxs0agPU2HjLS+SprRB2JmiwHfwU3MyDxtm/o8yFit2mkBnZSZLQJepaU4RjqdDuLrhG9Xqzm6HeQhsKqaKYDfDvIl0EYpy3vT4yCWpWMgry4H8f3y7EAGWcm2O8gTYFlWjoF8tjnIWeBgIIMsZP/mXqvqHKQeuJuFYyCPC5L251f2bn+LDGQUWnZeDqQ3D7IV8D1xtcXA5mrw2+8VYEcVkXRI2pKvd/h+pAtYXQUwXmeDpD+jgfjRwNXccMyHcZUafhSxV9K/wQWOtmdvBo4CfoBTKeETyFZJfpQxIkadopjZVOAAsDN30rR8DGl8uH1O0pliNUSda/lUxcelS4ElwKSAYD6N/wi891mzJJ8Bl4xIICVVKuCCGkgFNGFICbWO1DoS6A78ByMZygenO7NpAAAAAElFTkSuQmCC",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
+  }
 ]
