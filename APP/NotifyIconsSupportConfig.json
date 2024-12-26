@@ -5567,5 +5567,13 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "搜狗输入法",
+    "packageName": "com.sohu.inputmethods.sogou",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA2xJREFUaEPtmF+IVVUUxn8fSJCCqahkaVOBD4Jo/kkmkYKCQZEoqHlQ6F1xfPCpB0eEcYh5zqaiJ0EGpaJIgjGyMXspIUudiBAR0ZyY/lAKQWC6Oms8A+Nt7t17n/tnLsPZcLkP+1vrW99e++y99hKzZGiW6KAU0m6ZLDNSZqRJK1BurSILa2aPAo8A83J7/38cWFLh7z1JYykcTcmImT0IrAXWAeun/GJj65N0MBbsuIYJMbPVwFZgG/B8ShDTYMckefaiR11CzOxJYBfQnW+RaOII4IuSPo3ATUAKCTGzNUAf8FIsUQHcCUnR/pOEmNl84A1gT4HAqpn8BfwI3K4A/OsLJenvGK5oIWa2BRgCHotxPAXjgZwGRoEfgBtZgN9LupXopyY8SoiZPQucSST+Eng3O7k+kfRPom0yPCjEzJYBF4HFkd6/AHolfROJbwgsRsg7+ckUQzgi6YUYYKMxNYWY2VJgPIG0W9KHCfiGQUNC/H54P4HtcvZhP5daXiT4rwoNCRkAXi9A9HH+Xbmpi/s59+F8XrIsB/wyfajC9+/AT8Al4FtJfixHjZCQt7OttTvKU3NALmRA0tGQ+5CQXuBQyEkL5k8BL9e6HENCXgU+aEGgMRSfS+qqBow5fq8CHTFMLcD0SBqcjidGyIasLP8KmNuCQEMUv0nyK+F/IyjELczMT5qP2iQzHZKuVSqJEjJpZGY7gO3ApqyAXBlavnz+CnC9AvsAsApYEOljKmyzpK/rElJpbGYr8ve2l/eT4y5wLqb8NjN/SXphGbsozvGEJP9u7xtJGSmwekETM9sP9AeB9wDjkh4u/I1EkiTD8q7KWSD2fd4v6UBbCTGzTuBYwlv/PPBMtbdNy7eWmb3i7xXgqYQU+jfRKalqJd50IWa2EfBWkQe+c5pmXEiPP4+7JP1SC5gsxMy8gLsDuOM/8v9fAb+ovKr15twc4On8tzAUaY35YeA1Sc5TcxQRchjoCTmuc947K/skHYn1U0SIt0G/iyVIxHmW38q236Ckmym2yULcuZldyEoWb9I1anhHcUjS8aIOiwrZC7xZlDTvbZ0ERoBhSX/W4WvCtKiQRdmZ/hngJ1JoePb85PF7wJt0o8140xcSEop8JuZLITOx6g29ENtNwGQ85dZqt8yUGSkz0qQVmDVb6z/+e9IzmnD2cAAAAABJRU5ErkJggg==",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
