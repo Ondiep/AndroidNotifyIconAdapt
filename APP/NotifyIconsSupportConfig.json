@@ -6047,5 +6047,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "帮助与反馈",
+    "packageName": "com.coloros.operationMaual",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAABC1JREFUaEPtmlnoVVUUxn/fW0KDkRFRhI2G1UuFShEiDQQNBEXz/BKJRgnVQ0mTQdmDFZlFEAUaNAoFVjRQYqNBBAVWYDbQRIGF0kPB6qzY98/1dI9n7X2O/W/igvty91rfWt9Ze1h7nSN2EtFOwoNdRJoyaWaHAucABwH7pJ+r/5p+G4HVkr7pczb0khEz2xO4ATgfmBkM8BNgJbBC0tagTaNaJyJmNgW4DrgZ2LswmJ+AO4HHJP1ZiFG+RsxsP+BtYEap85rdh8Bpkn4rwSvKiJkdkkgcWOJ0OzYbKtx5kn7Mxc0mYmbTgY+GFnGuz2+B3YB9Gwy/Bo6X9EsOcBYRM9sdWA8cmeNkSHe9pFlmNg24D7iyAWetpLk5PnKJvAicleOgpvuApOsH/5nZcdUu9wzgU7Uuy6usLIj6ChMxs3OB56LADXpbgFskPThE5gDgrWorPmyEzSxJPgNaJYfIV4Cvjz7ke+BqSa86WNoBPwb2r4G/K+nEiMMQETNbCEw8xQhwUGeOpA8SmYuBVSPszqjW1Zo2vCiR94HZbWAF4162zJT0cyKzFjiphrNK0qVt2K1EUtqz9/U2x0PjT0u6MBE5E3ipZvs7MK3t1I8QuRZ4OCOwEtWDJW1KZDzwPWogp0p6fXvAESL3pFqqJMCozXxJKxKRp4CLaoYT402AESJPApdHIyrUe1aSV86+g90E3FvDWSrJC9NGiRB5GTi9MMCo2TpJ/yxyM7sGeKRmOLGOumRkdbooRYMq0fvDyx6/bJnZqOphpaTLumbkceCqkugKbL4DRlXU91flvV/cOk2tW4G7CoLq02ShpIe6EvH14etkMmW2JL94dcrIXsDmSWSxWVLrNbp110o7iVe9Xv1OhnhzYn6b4yiRU4DX2sB20PjRkj5rww4RSVl5D5jTBtjz+POSzotg5hA5AXgnAtqjzgxJX0TwwkRSVv7LM+UOSbdHSLhOLpGpgN8Zjok6KNR7U9LJObZZRFJWvI3jd+xoazQnHtd9wxscVZHoZUtYsokkMt7r9Zooq2UTiOoF4AJJfwV0t1EpIjJAMLOlwI25Thv0F0laVorViUjKjvemvPPYRbzy/bwLQGciiYx1CGKrJO9gdpIdReSVEbe8QaB3A34mDWSsiTROFTPztpK3l/4XRBZIWj5qrpjZbdX/wwfdWGfEOXgL1Fs7w+Jd+KNq/409kejiHWsiSyQtbphaPuWG7xdbJNUbctGHMKHX167lLVV/pziQYyX51PqXmJlXA17iDORLSUdkR14z6IvIE8AVQ9h+QHrDYtQaWVJ7gbpM0qJxIeIL+NOCYPz9+uGSfiiw3cakl4w4opmdXX3t4PcV/9ohIv7lwyWS1kWU23R6I5LIeKnhC3ledbL7xwSjxN+jr5H0aFtwOeO9Eslx3LfuLiJ9P9GueH8DpBlJQk7jMowAAAAASUVORK5CYII=",
+    "iconColor": "#ffe47833",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
