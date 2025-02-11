@@ -6074,5 +6074,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "系统服务",
+    "packageName": "com.oplus.exsystemservice",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAABEFJREFUaEPtmWvonnMYxz9fJccILSTxgpxCDmUjvEE5lJaYYQuzhCm82xR7ZZMcYpOc1lDm8GKKHFvRVlMK4c2IEUIOWyGEr/vK/dezZ8/h+j33/Tzp36563jz3dX1/v+99/e7rdx3ENBFNEx7sIPJ/82QrHrF9ObCLpMdLCNpeCGyV9GyJXS/dRkRszwQeAE6uwV+WdF5mU7bfBM6oddcDiyS9n7FtjYjtA4E7gStgu+9slaSrB23I9hpgTpfO30B4dLGk70sJFXvE9q1A/HYbsNh91bOlkrZ26tjeF1gOxJHqJ2Fzm6T7S8ikidReiONweMkCDXQ/iqMn6ccMRgmRu4FbMqAt6iyRtCyDV0LkGuCRDGiLOpdKeiaDV0Jkd+CH6ozvmgFuQSe+lf0l/Z7BShMJMNtPAPMywC3orKyi16IsTimRBcCjWfCGenNKLspSIiuAGxpuMGt+h6QI8ylJE7F9HPAusFMKubnSH8Axkj7JQJUQibh+dAa0RZ2NkmZl8FJE6uTu4QzgGHQulvT8MNyhRGzvA4Q3Ir8qkXXA28A7kRkDxwOnA6eWgACbgWMl/TzIbjsitvcCwp0HRRwHrgUOKVj8G+AqSa/0sqlT/pXA3gWYm+qE8rsqT/sK2CDpl077bYjYPhF4C9ijYJFO1c+AmZJiwb5i+7DaW5FEjiI/ASdI+nzKuJvIjUBR1tm1iwB/L7Mz2xcCazO6fXTmS3qyH5GbKpffOyL42qowml1ia/vDCLElNh26CyX9dzl3e6QJkbmSomBKi+3bK+WlaYNtFQcSuRm4Z0TgWZI2ltg2PF5jI3KmpAgUabF9flXvv5g2KPBIk6O1YIQuShRqUbCNImP7RtZImluyI9uvAueU2GQ/9uuAB0cEDrOS8HsW8HqDteZJeqpf+D0U+ADYc8QF4oKKCzFu975iOxoYERhGvRCjXXRUZ9sok6KcW+dIWW7fAnFZvdbLwPb8uqkXqVBW3gDiF9hfA+sl/dppnEkao0b/dISk8YUqR1sVLdF6wQOA6wtfSphuknTEMMZDiQSA7SbRbNgehj1PRcMskeigfFEdif2Grdry8y8lHZzBTBGpvXJ2ld5HuEzbZDYwQOevKqqdJilqmqFStCnbUUfEOZ+ELK96WouzC5USiebzpEreVIk7RbSUyOoIrdm31FBvhaSoj1KSJmJ70i3TLcAMSX9mmJQQmeSxmtr7JZKea5vIQ3UjIoPbls4ySUsyYCUeiXnh00DkY5OQj4HZkqIVNVTSRKaQSkdv1bzwSOA3SZvr0VvMHmPW0k/GO3rrXLUew91V5UGX9bggV1ebvnLQK7QdncOLunRiGPoYEFOq8Q9DuwidUkWWuCRPqv9/SdIFQ8/Bv/lblMXReQzZUI+nU62kXvjFR6sXiO0YU+8sKbLdtNQ95S3ZyDQIuBUi6Z2PUXEHkTG+3JGgp41H/gFrU15CePbgSQAAAABJRU5ErkJggg==",
+    "iconColor": "#ff007fff",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
