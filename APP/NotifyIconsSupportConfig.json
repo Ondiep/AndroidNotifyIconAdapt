@@ -6083,5 +6083,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "诊断工具服务",
+    "packageName": "com.oplus.postmanservice",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAA3VJREFUaEPtmU2oVVUUx39/RR2kRWUoaMMoBw00CMVBKUpDCWlSIjZQIbVBUH6AMxWFGogfoAgNrEEUFkYO0oocWKChIBSUs76ICAUJpMJ/Z13Ok+vh3HPPPu9w732Pu+BN7ltr7fU7a++1915bTBPRNOGgMYjtZcBzwEMtfIw7wBXgC0lu4q8RiO3dwIEmA/axOSNpfRO/TUFuA3ObDFjD5klJP9bQu08lGcT2QuD31IES9NdJOpug31FtArIY+Dl1oAT9lyR9lKDfKsgnwOHUwYG1wJ6C3VBBjknangpiewNweiAgtjcDzwOL8gHnAMsLg/8G/JQKAiwAnirYfQ/8mf92C7gMvCMpSnRPqVwjtt8FNjUIsG2Tq1kBiH0rHcR2fKkf2o5oEv42SipOw3vuembE9ovAmUkM3LbpoWx67erltAqkbCG2HVyKv+OStrUF0imNtqNk7k+JoqbuWUnrbEdh+aVg0z5IDGB7KbAKeLBmkFVq9x0aBwrSQvA9XYxByj5Nm7tuavbGGRlnJHXOFPRtvwXE3zfAa5I614MpNbVs7wQOdrFdkrRySoHYfgV4r5gg4DFJf02JjNheA5zLTgazCiCdXX1KZMT20/l6eKAAcTODe1bSjZEHyafLd/llqpvjn+iPSfp24seRnVq2HwYuldwGoxm3XtLH3WQDB8lbQ1E+5wMfSPqsWJFtz84Ol1+XXI9D9U1Jb5fYDO70m8/l+MorugI5Crw+0fa0PQOI1k5c0opyUtLWHpvx4EAqrsJRVl+V9J/tE8CWkmAvZIv+BUl3RwFkJnAViEpUlM/z6VR2+boeWZT0d6+DwTDWyBLgSyDaqHXkV+AZSX9UKQ8cJF8nj8dzAPBEH5JofC+XFH2rShkKSA7zKHAeiOtvmfwLrJF0sR9E7m9wi70YkO3YrT/N7/HFf2+Q9H4diKGD5AHE+emrLDudU2wupyRF27W2DG1qdUdoO3plsZ+sBi5kp9kdtQlyxZEASQ26TH8M0uOrlLVMPwT6ls8WsjIPeKPgp/INpqr3+3K2N9SuNC0E38/F0ar1VgUSjztRgUZFdkk61CuYKpDo6UZXo43ebhsfY1l2FY6zXan0e7GK6XUEeKSNSCbhY5+kvVX2tZ6nbcc5auINcRLxJJveknStjlUtkDqOhq0zBhl2BorjT5uM/A+3ke1C7YIPvgAAAABJRU5ErkJggg==",
+    "iconColor": "#ff70db93",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
