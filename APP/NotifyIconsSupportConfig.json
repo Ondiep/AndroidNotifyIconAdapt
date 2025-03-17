@@ -6110,5 +6110,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "小布识屏",
+    "packageName": "com.coloros.directui",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAgZJREFUaEPtmjFrVEEUhb+jdRJUYh8jWKmFWiqopYJamC7kR6RIl8JKJOQ/iKCooCBYiIKFpY3BRkElbQIJqLU57lMXloV5Lzvz3jIbZ9t999x77rl35r25I9uPgQXifrvAVUkf4sz/Wtk+D7wCjkbiPJJtRxr3zZYlradg2F4G1lIw2iCyIuleShC2V4C7KRiFyED2iiL9ZORSWjckvUipb9u3gGcpGE09ch94APwKONmR9DElgAFVztQsv4eBJWAx5KuJyElJX9sINBXD9jzwJZbInKTN1CDasLc9B3wrRIoibdTTAEYprX/JmKhm3wZmA5UwLelny1USBWd7CvgRMN6u9pFLwGVAQw+9l/QyymtHRravAReG4PeAt8PBdxRC97CFSPc5Hs3DwVHE9gxwFjg0Wg6yebpq9o1q1foEnMomrLhAPje9xsfBjt/Khcj4k17rsSiSmSD8UeQJcDu3yEaM5+nB2RBHZJ7t40WR3KSpmv0icGWCP6yq+c6bisgWcDyQ4RlJoc/LsYpiexr4HnC61fSKMlGHD3Wjt0Kk7borB3STeED3X/TIvKTgTKLtPqjDs32iN7EKDp2alt/V3s2GdzUO2hy9nQaO1fiqNu47of+biOwn6ddTj1Zt3+yd5Dzfj7MuiZQ5ez+7uczZiyK5KZLNNaccLp6dA14DRyJXroe/ARjVZcMpl1VqAAAAAElFTkSuQmCC",
+    "iconColor": "#ff007fff",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
