@@ -6119,5 +6119,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "便签·ColorOS",
+    "packageName": "com.coloros.note",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAS5JREFUaEPt2T8OAWEQBfD3DqMVV9DQuoFarVJoFKJyBqU7aFSidgtqiShkWEGIvztM9huZrXcm+3vvK75kKSI9AF34froUEfFtOH795l8gCEhqxzEaiUaMEoijZRSsem00oo7OaDAaMQpWvTYaUUdnNBiNGAWrXhuNqKMzGoxGjIJVr41G1NEZDUYjRsGq10Yj6uiMBqMRo2DVa6MRdXT3gysAAwCLw++NnXZv0Y0sAZRJZpivnqIhbZLDrwSn4aIhNZKT7FtEpAGgokTNi4ZUSU5PkBGApgIyBtDyDpkBqJNce4ZcEFmLXiE3CK+QO4RHyEOEN8hThCfIS4QXyFuEB8hHiNQhHyNShuRCpArJjUgRUjrfnfJeHrMrSh9AJ+/gj96/vv3WAUxJbjW792neOskccQ4fAAAAAElFTkSuQmCC",
+    "iconColor": "#ffe47833",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
