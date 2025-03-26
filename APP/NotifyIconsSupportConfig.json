@@ -6128,5 +6128,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "系统升级服务·ColorOS",
+    "packageName": "com.oplus.sau",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAABH9JREFUaEPtmlnIpmMYx39/EmPflSVyQELWxDDFYDBCwgknw4EtB9RYaso0CVEiDEeSA4Qo2ceSZBmZxV6UIrJkG/tW/u5reh69Xu9yP89zv+9X01wnX33ftdz/+1ru67muT6wjpHUEB+uB9HvS9rbAccChwAHA7sDOwBbAF8C3wOfA08Ajkj4pGQ2dPWL7+HTA84EzGx5sFXCHpLsayg1kbw3E9j7A7cDcjgf5DrgNuEXSmlxdthdLWlLztwJi+2bg0lyjmXw/pTC8CbhB0u/DZGxvAjyaLnF7SYe0AmI74j6URA5Mij4ATpX04YA8DBDLgDnAakkHNwZi+4gqUbecFIIevb8CCyQ9VP/O9mYViNnV71Y19ojtw4AXgFA2TbpO0iLbcXnPVxWxtt/MI7bDfQFiqzEIvgcicePnX8BOEcdAVw/eD0RhObDP/kpJUerX0shkt70j8H6qKtsNAPER8ES6pceBF9PNxeH/R7a3AU4GTgFOyLiQXI/necR2gHwFiNyo6TfgwXTbd0p6PddiT5xvDJwDXAbs11S+jz8byPXAVT3CUbMb1fpRB60e0ii3+7cEND7Zbc9LnnimMnAvcIWkaC+Kk+2lwMUtFI8GUpW5qOWfhQFJ0UpMlGzPB+5rmD+jQys1f7dGkycpQmsqZHtr4G1gtwYGhwOxHSUunv7nGijszGr7ZeDIhoqGh1bcTJPGraHhgey2o/s9r4Wu8cneQmkrEduXVJ1vG/m88ttGcxMZ20cDEcIbNpHr4Z15ILb3AN7q2L7MLJCqvEdJ36ulJ2qxGQcS3+zRc3WlmQNiu7/t6QJm5oB0OfU42f+08bYPB+JzsgT9IumNEopydPQD+biaR+XIjuL5GZgn6bWuinLlJwEkQBwjaUXuIUrwlQbyI3DstEHERZQEEt/q4Yl46KZOpYDE0CE88ea0EKQPsh0kfV3bKwEklM2V9O4UQZwGfNr70dcVyDfxHTFoKjgJULY3SOkQs4NZkhb22ugK5AfgbElPTuLgvTqrce0D1axsX0l/lARS61oqKb4tipPtWcBFwLXVYz170PvU1SO9B49v7gskLS+BxnZMKWO6ElP/GPIFXSnpxkH6SwKp9T+VRqaLJK1uA8h2TNovBM4AYqBX07LkiaFd8ySA1IZjXvxSalVeBZZLiv3HQKrGQSdVY9VYXfRTtE4HjZon5ACJkIlJeIw5u1C8+lHlvkrxvlEVLrF3rMNmmO6QOUpSzNqG0jgg0b1G87fGdsTm5V2QtJCNbmGOpPfGyY4CEgPsE1O9jiZwLdlekLrju8cpLfT3eGijW3gnR98wIBFK8yX92a/E9q7APQWWoKPOF5XvdElf5oAInkFAVqR2Y+yq2fZZaVYbS9Fdco1l8l0j6epM3n/Z+oEskbQ4V0nKm02j1KYkjsew62bqMWBh23an1Xp6QLgFoMifc/v2fOPuJNbQD1eLo8jJ1lQESK9125un7WtsXmMovTewZ7UD/Lv6F454E2KutTLxPDvqfWmCqjiQJsZL8q4HUvI2S+j6By5FjEIbgXJtAAAAAElFTkSuQmCC",
+    "iconColor": "#ff32cd32",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
