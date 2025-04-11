@@ -6164,5 +6164,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "Olc",
+    "packageName": "com.oplus.olc",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAkVJREFUaEPtmT1oFFEUhb/TiSBaaLARQWxS2Km9ItYaSZVCg2ArKmgM/scYBQUbsQkiIkLEHywtAlZWgo1YaSEKgqKNiFpd82SRx+zP7LvLDMPue+XuO+fcc8/cXZgrhuRoSHyQjTQtyYETMbMx4CSw3WnuNbAg6YsT/w82kBEzOwTcBlYNUgTwCzgi6b6Xx23EzA4Cd73CXXCTkh55OF1GzGwt8BFY4xHtgfkKbJL0J5XXa+QwsBiJvQSOSnqVUoCZhbm6BeyMcBOSnqbwuGfEzBaAmUhsl6QXqeLhvpntBpYj7CVJ51O5vIlcB05EYtskvUkVbxkZB95G2JuSjqVyjYYRM9sMnAW2Fjq0JQxl9FmYjZ+pXWzdXw3siLCfgPcFrnfAnKQP3TS6JmJmV4DTzuKqgl2WFBrbdjoaMbPiDFRVmIf3oqQLRWCbETPbCHz2KNSE+Q2MSfoR63UyMg3cqakor8w+Sc/KjIS5CPPR5DMj6VqZkVlgvskugHOS5rKRBqU0Wok8BCYb1P1OpTyRdKBsRp4DextuZFnSnmykQSn1lUj+H6kxsdH6+c2PVn600juQZyS9Z9UiciLV9jedPSeS3rNqETmRavubzt5XIqdWVmlX07lrRcxKCquN/6fTC7qplZfW7l1eTXamJD0oM7IBGGjDWoOZ9ZK+9TQSvjSzG8DxGgrySMxLOlME9lorPAYmPEoVYu5JCtvkttNzY9VaQe8H1lVYXD/U34ElSUvdLrtWb/0o130nG6m742V6Q5PIX4vU8TPoJMMyAAAAAElFTkSuQmCC",
+    "iconColor": "#ffff7f00",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
