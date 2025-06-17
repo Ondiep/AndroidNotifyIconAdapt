@@ -5791,6 +5791,15 @@
     "isEnabledAll": false
   },
   {
+    "appName": "我的一加",
+    "packageName": "com.oneplus.member",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAABl0lEQVR42u3WM4BcQQDG8S920sS2U8VWGbuKnVRXxbbN9tLGqWPbNprYTv7nu933ZvY00+3vq8eUQ3EM4QAAB+gt9+hPlle0kFtU4iaRDsktdhI0S+4wGpOecoNGvMHkLAXkAnuwWa/8I4FYBip/aEdsDymnnKA+TWXAWbKTKAOK0koZ6MtJAG6ykCqKwEpyYnSg6smc5hdwkSFpk/CFLG9ZSVmlog8585GaSkVZEnhIpL5iF0HfWE4hyvGcnDogUYll/CTopDD7xxFy4wgWwjNxAZ8uFdQl+XRJjMOnSf5HQCH+4stfCkniHL5clgpKuihfrvhu4FJaA9fly+WMBn7Lhz+6rDScxocLUtoIfK3CtawGrvlu4IanJc5Acb5j95kjzDdkLx+w+0FxZeEEdvNkwQ7szioSm7HrJgu6YbdTkZiA3Wpqy4AKJGI31fLBsq2CIR+IpZMiUZKvuPSNUorGSVw6rXQFleG6XLqmIIbh0rDwCPbpsVx5rH0KYwyujJAZM3Fhuuzoxn7u8YO8ecB+uil34pIAYcKG6mHzzxMAAAAASUVORK5CYII=",
+    "iconColor": "#fff4bf1f",
+    "contributorName": "fankes",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
     "appName": "OPPO 社区",
     "packageName": "com.oppo.community",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAACZElEQVR42u3aL2zqUBQG8INjCLKEYnFMg3xyFoEX+MybeYNA4kNC0FPt9AveLAgsXpDpUu73veRle8ltePS0Pdw1y35HYj7K5f7pPXJLP9jCGDO/0jFbcgEe8OjVL7HDAabZmle4NaYceIGeEHu1EguMsglLyCaMbhYIQxezAhdjaB4IfXdgDe6AZ7NA7GDO2vBmFAh3NGAWCCugQYHwQgNmgdyOleGE11wliPOR/CqYKnEkawWKS9ejwdOxD2Q/duwDYUU2KBC6QIMCsUMDhoEwb1Qg9GkEZ7zl6jdir5J/nzzj6W89SF75FR17bNwiHTFilI7cAhvslTP1Kz/gIJdhyFKQoCcXoIekTCASQ7nExVTDlm25gm1s9YFcfHFzqh8fbikKbomzLhDJSPK0e2Wc3u9F6f0eJ12gbCJ52qfjxdFEOmsCkeLjgCpuKSW5pS6Qf2gSTHVDWSrAVhMIU/97rKnRlgrY/pgqT37Rk61LjyAkUhESKnhndCqgJxWhR42WfMJYs0hIDdizUDqWT5ixEDZSAzYshFmpQG4hNbiFeaB0JDWkI/NAjKQGRt8/UPifrPmDOvzfvnETY+OWjuYuriLZbbcfCtk65AZNAdNwW1idQbhNvkq4Y5BKNgl1UNSKQhyl1Vwc5GWDHoaSZ/86Rg+HK3c+/ALoy/9hzsAwL7iKYmidwusogIEAuFNdSTEQrOyupQzgxe5qyoDbSTk48oZwlPLcLvTTsR9L9mPH/hLYB2Al9aBLQ+iKnn0jgQ9zdsSAVatFX+wYNKMYsGvXKc++oSnzGpq+tOULfsvXD3N/AArBeVONJsIAAAAAAElFTkSuQmCC",
