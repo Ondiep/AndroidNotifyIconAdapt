@@ -5841,7 +5841,7 @@
     "iconColor": "#ff5bca46",
     "contributorName": "PedroZ、AzusaHana、fankes",
     "isEnabled": true,
-    "isEnabledAll": false
+    "isEnabledAll": true
   },
   {
     "appName": "MediaTurbo",
@@ -6309,6 +6309,15 @@
     "appName": "完美校园",
     "packageName": "com.newcapec.mobile.ncp",
     "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAADvklEQVR4AeyZO2gUQRzG9+x8gIniK4WmMwZ8gAiiKPEB4gMtLERiNCKksBAtIkRJTEQQLCJWFoKPQmvBQjGaYKVIjFGCFkYURdDCwsZO4+87ssft7Mze3uYu2ZgN33ez+3/M/L+d3duZ3CzvP/nLhMSZyLGxsRo4APthbZycpDFVmxEKb6SoYdgEt8EhbCtpq4KqCKHgvVQ7CFdAH/UcDOLbT1txVFwIhfZQ5QM4G5qYh+E+MRdoK4qKCaG4OVACuqgwB12Qr5tYCZrrCirXXhEhFLWcgYfgPhgXBwjUrVZ8+2FKhgkLQcQOhn4LbQ/yV+w34HX4BZpowDBMH9tpJ4QJCaGAM4z+BM6HJvowNORyuTZ4kuNVsB+aqMHwdLwvDpMhsRAGvs2QvdCFEwj47TvHj9v8c0vbS5+3LPZYprKFMNhSqK/WYxEjjFC4bqtACLaPGD5AF1rp+yVc5Apw2csSwgAb6UgvufW0UfgV4fwe4ZNrAx9vGEsth/EQWwgdH6fL53AJLAW91V0xUT4/ZxkHmpmjtLEQSwgirtHbTRgXteToxRiIx3YJw0IYF3fIuRonOFIInSyAz+joFCwXXeR2wjq4GOptfr7cTog/TW4f1Lcbp3Y4hZCoW0Avua321FjWi0R9gz9gN0yKnSS+pibbuwqX51mFkGBb9OUTpvAjctEZEIKAHNRV1JrJtuibQh35of1Fp9ZzeYP/ERCCsRl2whxMK1RbDxf8UHGBppAXOB9DPeDlcjLjH1HjK1hAQAhv3lG4CzalnLupb7SggoOAEM5DYApboPYPNuoBtOU0ReRo62vLqY/IORJKMAwlhRC/BuqtrvdAMbV8d323S+BB8orjdSybfLhCUF/qU3HF1NiqIZRQbCgphClsJ+EeNKHp1brLtHvkaGV8LuTwvI5xX8iFXX3tCTk87y6+sxZ7wFRSSCA6xSeZkLRNTjYj2YxU6Qpkt1aVLmzibrMZSXzpqpSYzUiVLmzibmfOjLBHaOEybYYmHuJbZxp1jn0L7WFo4jK+VtOoc+xa3nfo2GAzviuGLXQaZ0a0F/hLprmV/YPNBf1eUofTzPmJzQXtRzbhNHM+YSuJkkLYC7RD19ZXe4jQIMRrD+HK0V7FljNMnp9jtsn2I0yltp3arqaRugVDF8I1I++IHEgp31NXCC4hUb9hhDqZZIP1mbEK4V5dC9MK/U86dO0KQlL+XLie1cIvwgUhSNS9l9bnwlXXCHXnUSzEeu/lo9L78dkvrSCEB6IRTjesDgnxDdO1/QcAAP//ZA3kygAAAAZJREFUAwAJwuyD3zsIsAAAAABJRU5ErkJggg==",
+    "iconColor": "#FFFF0000",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
+  },
+  {
+    "appName": "系统界面",
+    "packageName": "com.android.systemui",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAC2klEQVR4AeyaT0gUcRTH3aCCqKxAulREdCnCg9QhCiIiCoqKLlEQdujUn3OHCiI6dOrQSRERvKigoIh6ERS8iBcFRfTgQbzoRfHgUdbPg9mD+5uZfTP7fjuDjHy/vPX3e/Pe9/v77e7s7OyxJo9/5XL5L9wM+NtjqyZvRhD/D+Hf4MWAPxn7w2Mv8GIEwSXUfoHV+BrMVY/X/b8XI6i6DI/DapxlQOYItvBlJK5u3Fxqd6ZFedq8gF2omYFRmJEc+DwqIc24iRFEvYbLCBiBH+ElGAWZk5xRjlmEL6MSk4zXZQQRLXCShkPwBkyKWxwwTI0J2MLj1EhthMYP6LoCH8F68ZQCK9S8T0yFVEZoeJtu4/ACtILUGqd2a5qCiY3Q6DqN5Ol0imiNMxScosc1YiIkMkIDOdEN0KEZ+oLsTH/QS90jkRGq/oBt0Dfu0EA+3hB0UBthhc5T8jtsFH7RU55qqn5qI1T7DE/CRkF6fdI2S2LkrbaoYd47bS2VEbZYTlY3tUUN81qD3jVLqoxQ5QnMCo81jbVGstiNin5Vb62Rc5WqGUS5hqnZVmtEcxav2SxlwmnNcVojmlq+clQaVUm+FFrWLYxYrqZFrWJHLFbRskaxI5araVGr2BGLVbSsUeyI5Wpa1Cp2xGIVLWsc7R3hOrkZ9sJdWGbl2mFWaBcNULT0EEO/IorakTFUv4eqqzPyGgHR8oFGfdCBYwTH8k3iPSczPwPP0Ci3Iw4pcowwewLmHc6lt2OkVCrN4mIdZom43mtonKtOcIwECa+IGzBvkAUWbY6uUCM4XoBXyJbXy0NiHtiGpqtwCT0OQo1UsjhoHk7nhPMVXWEx1kjYAXkdMzfCW6P85mSaGEe5YWS6JuZGUCe35+SObxz3yTOFDyOdKNyDUdhmogOawtwIbwxbKJSPEoRQvCFnJ3SmjkFzI6IFoYNE+SFBN1HOR6vE//Auc3Jrm4e2OAAAAP//i6/bGQAAAAZJREFUAwCWEgTDV+r0BgAAAABJRU5ErkJggg==",
     "iconColor": "#FFFF0000",
     "contributorName": "Ondiep",
     "isEnabled": true,
