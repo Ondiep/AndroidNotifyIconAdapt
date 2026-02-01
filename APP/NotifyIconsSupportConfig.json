@@ -6340,5 +6340,14 @@
     "contributorName": "Ondiep",
     "isEnabled": true,
     "isEnabledAll": false
+  },
+  {
+    "appName": "通知滤盒",
+    "packageName": "com.catchingnow.np",
+    "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAC5ElEQVR4AeyaTcgNURjHr5cFkRT5WJCvknylLJVQbGyIEslKkrKghAVR2EhJdqRkIxtL+VhYiWIjochCiR3ZWND1+1/vm5e5Z+Y5Z55jJu7b/z/nNPN8/ee5887cM3eo2+2O/Rc41Mn7N4nwK4Y5kTEbcglZQMW34Cf4ZJifGW/CedAdOYRMo8p7cBP8E5vZcR9Ohq7IIeQQFc6GIczhwEHoCm8hE6huC6zCNgzGQzd4CRlHRfvha6jrg6EUizgq232M8mWoh7pCxpB+F3wJL8AZ0IqZGF6EL+AOWAt1hEjEDbJfhXNhKvRf7BrO12Ey6gi5TFbL9YCZCduxugSTkCrkPNl2Q2/sJeApGI0UIVvJcgDmwjEC637DYEesEF0XZ+zhky3P4qlcDDbECtlJ2PkwNxaSQNcMgw0xQmR73BbWxeoEUcxdUXHYm7AKq7/RDdL0oK6s7M0MmxghSw3xvE2WWAPGCFlmDepoZ84ZI6SJjphzxggxf17b3pEpFQXmODzLGjSmI9aYjdgNhDRy2kuSDjpScnIaOTToSCOnvSTpoCMlJ6eRQ/9dR6Y3cpp/JrUs+HWqOrKOWHfhe9gUXpFYC9/LGYMoE6KVkjt4roVNYw0FPIX9VvjZ3Ql2RN/MtHbVM2rR5gq19H0lEerIURzaiKkUtQcWEBJi/opZiJh/R9/Fu5AQLSznLyktgz72Bc+QkI1Yrm8pVRul/Y6QkIeYPWgpH1NXASEhBcOSHWq13t5+wyaF8l2M72hEzz2EfCWr3qczJEG+ipHkPOLkIeQNwT7AVLzFUWRIh4cQZb+tTSL1+JHo+svNS8hJQn6EsZDP6VinfvZeQt4RfAP8Aq2QrXzka/UJ2nkJUYLnbPTq4RFjFWQjW/lU2ZqOewpRQl34q5kcgXr8/s44As31Pv4wO2QjW6Y+8BaiqrpszkHdX/TTJi1+66dOmmt1XU/VssHEDzmEjK5ON8hn7NBHSHOmefADAAD//2f7PLIAAAAGSURBVAMA6G8WdK3SjlYAAAAASUVORK5CYII=",
+    "iconColor": " #FF7093DB",
+    "contributorName": "Ondiep",
+    "isEnabled": true,
+    "isEnabledAll": false
   }
 ]
